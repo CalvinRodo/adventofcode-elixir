@@ -6,6 +6,16 @@ defmodule AdventOfCode.Solution.Year2024.Day04Test do
   setup do
     [
       input: """
+      MMMSXXMASM
+      MSAMXMSMSA
+      AMXSXMAAMM
+      MSAMASMSMX
+      XMASAMXAMM
+      XXAMMXXAMA
+      SMSMSASXSS
+      SAXAMASAAA
+      MAMMMXMMMM
+      MXMXAXMASX
       """
     ]
   end
